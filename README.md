@@ -5,6 +5,52 @@
 
 ![image](https://github.com/user-attachments/assets/4e009fe6-f642-4e78-83b7-3bdd8d95f474)
 
+					
+		Average Sales per Product		SUM OF TOTAL SALES BY PRODUCT	
+	PRODUCT	AVERAGE SALES		PRODUCT	SUM OF SALES
+	SHIRT	326.6666667		SHIRT	 3,087,500.00 
+	SHOES 	308.75		SHOES 	 1,587,500.00 
+	HAT	158.75		HAT	 912,500.00 
+	SOCKS	121.6666667		SOCKS	 1,050,000.00 
+	JACKET	140		JACKET	 1,500,000.00 
+	GLOVES	200		GLOVES	 2,449,900.00 
+					
+					
+					
+					
+					
+		Total Revenue by Region			
+	Region	Revenue			
+	West	 1,512,500.00 			
+	East	 2,450,000.00 			
+	North	 1,950,000.00 			
+	South	 4,675,000.00 			
+					
+					
+					
+					
+					
+					
+	SUM OF TOTAL SALES BY PRODUCT CHART				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+![image](https://github.com/user-attachments/assets/67606228-4bda-4fdc-af44-1935ba1cd2d2)
 
 														
 					
