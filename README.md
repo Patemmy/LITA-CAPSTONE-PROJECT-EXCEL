@@ -11,7 +11,33 @@
 					
 ![image](https://github.com/user-attachments/assets/67606228-4bda-4fdc-af44-1935ba1cd2d2)
 
-														
+
+
+REGION BY SUBSCRIPTION DURATION				SUBSCRIPTION PATTERNS			SUBSCIPTION TYPE BY  DURATION								
+															
+Region	Sum of Subscription Duration			Subscription type	Sum of CustomerID		Subscription type	Sum of Subscription Duration							
+East	 6,851,250.00 			Basic	 7,875,000.00 		Basic	 13,698,750.00 							
+North	 6,847,500.00 			Premium	 3,937,500.00 		Premium	 6,851,250.00 							
+South	 6,851,250.00 			Standard	 3,975,000.00 		Standard	 6,851,250.00 							
+West	 6,851,250.00 			Grand Total	 15,787,500.00 		Grand Total	 27,401,250.00 							
+Grand Total	 27,401,250.00 														
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+
 					
 														
 														
